@@ -1,0 +1,16 @@
+name: ${name}
+main: com.github.natureini.inicondadmin.InicondAdmin
+version: ${version}
+depend: [InicondLib]
+api-version: 1.14
+author: natureIni
+
+commands:
+  morning:
+  day:
+  night:
+  gms:
+  gmc:
+  tp:
+  tppos:
+  tphere:
